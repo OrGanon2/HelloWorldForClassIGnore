@@ -1,5 +1,5 @@
 public class Class {
-
-    system.out.println("kakado");
-
+    public static void main(String[] args) {
+        System.out.println("kakado");
+    }
 }
