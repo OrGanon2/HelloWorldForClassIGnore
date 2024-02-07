@@ -7,6 +7,6 @@ public class ScannerHokeWork {
         Scanner input = new Scanner(System.in);
         System.out.println("please enter your name");
         String name = input.nextLine();
-        System.out.println("my name is dd" + name);
+        System.out.println("my name is " + name);
     }
 }
