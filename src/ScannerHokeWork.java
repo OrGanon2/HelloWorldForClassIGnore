@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //psvm public main in string[] array(args)
-//sout system.out.
+//sout system.out. // Remove un-used code.
 public class ScannerHokeWork {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
