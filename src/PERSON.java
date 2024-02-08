@@ -6,7 +6,7 @@ public class PERSON {
 
     }
     public void set(String NewName) {
-        this.name = NewName;
+        this.name = NewName; // Only class need to start with a capital letter. Example: newName
     }
 
 }
