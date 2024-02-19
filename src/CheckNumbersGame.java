@@ -6,7 +6,6 @@ public class CheckNumbersGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int userInput;
-        Boolean yes;
         do {
             System.out.println("lets play a game of odd or even.");
             //1) first game of module %
@@ -34,7 +33,12 @@ public class CheckNumbersGame {
             }
 
             //1) Ends here
-            System.out.println("to be continued");
+            System.out.println("is 25 is odd or even type yes/no?");
+           /* if (scanner.hasNext() == yes){
+
+
+
+            }*/
             scanner.hasNext();
 
 
