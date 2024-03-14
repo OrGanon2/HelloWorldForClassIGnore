@@ -1,3 +1,5 @@
+package HomeTask;
+
 import java.util.Calendar;
 import java.util.Scanner;
 //String name = input.nextLine(); // Try not to leave un-used command in your code.

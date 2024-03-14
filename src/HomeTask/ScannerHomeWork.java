@@ -1,3 +1,5 @@
+package HomeTask;
+
 import java.util.Scanner;
 
 //psvm public main in string[] array(args)

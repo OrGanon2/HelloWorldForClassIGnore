@@ -1,4 +1,4 @@
-package ClassTasks;
+package HomeTask;
 
 import java.util.Scanner;
 

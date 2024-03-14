@@ -1,3 +1,5 @@
+package HomeTask;
+
 public class CheckNumbers{
     public static void main(String[] args) {
         int num = 10;
