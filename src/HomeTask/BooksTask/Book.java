@@ -1,4 +1,4 @@
-package BooksTask;
+package HomeTask.BooksTask;
 
 public class Book {
     private String name;
